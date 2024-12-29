@@ -1,0 +1,2 @@
+# langchain4j-spring-boot-ollama
+这是一个关于langchain4j集成springboot和ollama的案例演示
